@@ -1,4 +1,4 @@
-# CyberArk Conjur - Jenkins World 2017 Demo
+# CyberArk Conjur - AWS-SQS-DEMO
 This demonstration will be presented during Jenkins World 2017 in San Francisco, CA on August 29th-31st at CyberArk Booth # 504.
 
 ## What does this demonstrate for CyberArk Conjur?
